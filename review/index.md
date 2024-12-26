@@ -19,7 +19,7 @@ documents that are a part of this guide:
 -   **[The CL Author's Guide](developer/index.md)**: A detailed guide for
     developers whose CLs are going through review.
 
-## What Do Code Reviewers Look For? {#look_for}
+## What Do Code Reviewers Look For? {#look-for}
 
 Code reviews should look at:
 
@@ -39,7 +39,7 @@ Code reviews should look at:
 
 See **[How To Do A Code Review](reviewer/index.md)** for more information.
 
-### Picking the Best Reviewers {#best_reviewers}
+### Picking the Best Reviewers {#best-reviewers}
 
 In general, you want to find the *best* reviewers you can who are capable of
 responding to your review within a reasonable period of time.
@@ -53,7 +53,7 @@ CL.
 If you find an ideal reviewer but they are not available, you should at least CC
 them on your change.
 
-### In-Person Reviews (and Pair Programming) {#in_person}
+### In-Person Reviews (and Pair Programming) {#in-person}
 
 If you pair-programmed a piece of code with somebody who was qualified to do a
 good code review on it, then that code is considered reviewed.
@@ -61,7 +61,7 @@ good code review on it, then that code is considered reviewed.
 You can also do in-person code reviews where the reviewer asks questions and the
 developer of the change speaks only when spoken to.
 
-## See Also {#seealso}
+## See Also {#see-also}
 
 -   [How To Do A Code Review](reviewer/index.md): A detailed guide for code
     reviewers.
